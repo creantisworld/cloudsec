@@ -1,0 +1,39 @@
+"Design and develop a user-friendly, Web application that serves as an on-demand platform connecting tech gig workers with companies and individuals seeking services. The platform should enable seamless registration for service providers, allowing them to list their skills, location and availability. Once registered with the platform, the admin should be able to verify service providers profile and activate through the backend dashboard. Simultaneously, admin of the platform should be able to easily browse, select, and allocate the service provider to a gig or a job posted by a company or an individual based on categories, location, and availability. Companies and individuals who are seeking tech services should be able to view tech workers profiles once they allocated by admin to a gig and rate them by giving stars or reviews once the job is completed. Incorporate real-time communication tools, and a robust review system to ensure quality and trust. Additionally, implement dynamic scheduling to enhance user experience. Ensure the website is optimized for both desktop and mobile devices, providing a responsive and intuitive interface for all users."
+Key Features to Implement:
+1.	User Registration and Profiles:
+○	Service providers can sign up with the platform by giving their email address and a password, and create profiles. They can sign in and enter information detailing their skills, experience, location and availability.
+○	Clients can sign up with the platform by giving their email address and a password and manage profiles, gig posting, and reviews.
+○	Admin should be able to review service providers and clients profiles and verify or reject through the backend dashboard
+
+2.	Backend Service Listings and verification:
+○	Admin should be able to add, edit and delete gig categories from the backend (e.g., CCTV Repair, Network installation, Network trouble shoot etc.)
+○	Add edit and delete locations Skill categories of service providers, 
+○	List registered service providers and clients 
+○	List posted gigs 
+○	List gigs where service provides are allocated and started 
+○	List completed gigs 
+○	List ongoing gigs
+○	Once admin allocate a service provider to a gig system should send an email to both service provider and client notifying both parties 
+
+3.	Booking and Scheduling System:
+○	Real-time calendar integration to show provider availability.
+○	Automated booking confirmations and reminders.
+
+4.	Posting gigs after registration by clients:
+○	Gig parameters should be with gig category, Gig location, gig description, completed date and start date
+○	Transparent pricing with an option for tips and promotional codes.
+5.	Rating and Review System:
+○	Clients can rate and review service providers after completion of a job.
+○	Display average ratings and feedback on provider profiles.
+
+6.	Communication Tools:
+○	In-app messaging system for real-time communication between clients and Admin.
+○	Notification system for updates, confirmations, and reminders. Between clients, service providers and system admin
+
+7.	Responsive Design:
+○	Ensure compatibility across various devices and screen sizes.
+○	Optimize load times and user interface for both desktop and mobile users.
+8.	Images: 
+ Use Stock Images from sites like pexels.com or unsplash.com	
+9.	Logo for the web app:
+https://cloudsec.creantisworld.com/wp-content/uploads/2020/02/CloudSec.png
